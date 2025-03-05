@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+<!---
 ## 📈 GitHub Stats
 
 ![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet0717&show_icons=true&theme=radical)
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 🏆 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet0717&layout=compact&theme=radical)
-
+---->
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet0717/)
