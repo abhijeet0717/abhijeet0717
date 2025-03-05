@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet0717/)
-[![Twitter](https://img.shields.io/badge/Mail-1DA1F2?style=for-the-badge&logo=mail&logoColor=white)](mailto:abhijeetmahto007@outlook.com)
+[![Twitter](https://img.shields.io/badge/Mail-1DA1F2?style=for-the-badge&logo=mail&logoColor=white)](mailto:abhijeetmahto007@outlook.com)  
+[![DS Portfolio](https://img.shields.io/badge/Data_Science_Portflio-0077B5?style=for-the-badge&logo=portflio&logoColor=white)](https://www.datascienceportfol.io/abhijeetmahto71)
 
 Thanks for visiting my profile! Have a great day! 😊
