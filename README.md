@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various open-source projects
-- 🌱 I’m currently learning advanced JavaScript and TypeScript
+- 🔭 I’m currently working on various personal projects
+- 🌱 I’m currently learning advanced Machine learning and RAG
 - 👯 I’m looking to collaborate on open-source projects and hackathons
-- 💬 Ask me about web development, Python, and DevOps
+- 💬 Ask me about web development, Python, and Machine Learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeet0717/)
 - ⚡ Fun fact: I love playing chess and solving puzzles
 
@@ -32,6 +32,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet0717/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhijeet0717)
+[![Twitter](https://img.shields.io/badge/Mail-1DA1F2?style=for-the-badge&logo=mail&logoColor=white)](mailto:abhijeetmahto007@outlook.com)
 
 Thanks for visiting my profile! Have a great day! 😊
