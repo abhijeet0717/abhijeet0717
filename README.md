@@ -11,8 +11,11 @@ Welcome to my GitHub profile! I'm a passionate developer and Competitive Program
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeet0717/) [Mail](mailto:abhijeetmahto007@outlook.com)
 - ⚡ Fun fact: I love playing chess ,football and watch movies.
 
+
 <details>
-<summary>⚡️ More about my coding life</summary>
+  
+<summary>
+   🚀 More about my coding life</summary>
 <br />
   
 ## 🛠️ Languages and Tools
@@ -24,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer and Competitive Program
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!---
+
 ## 📈 GitHub Stats
 
 ![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet0717&show_icons=true&theme=radical)
@@ -32,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer and Competitive Program
 ## 🏆 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet0717&layout=compact&theme=radical)
----->
+
 
 ## 📫 Connect with Me
 
@@ -41,4 +44,5 @@ Welcome to my GitHub profile! I'm a passionate developer and Competitive Program
 [![DS Portfolio](https://img.shields.io/badge/Data_Science_Portflio-0077B5?style=for-the-badge&logo=portflio&logoColor=white)](https://www.datascienceportfol.io/abhijeetmahto71)
 
 </details>
+
 Thanks for visiting my profile! Have a great day! 😊
