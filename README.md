@@ -1,6 +1,6 @@
 # Hi there, I'm Abhijeet! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build interesting projects. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate developer and Competitive Programmer who loves to explore new technologies and build interesting projects. Here's a little about me:
 
 ## 🚀 About Me
 
@@ -8,9 +8,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 🌱 I’m currently learning advanced Machine learning and RAG
 - 👯 I’m looking to collaborate on open-source projects and hackathons
 - 💬 Ask me about web development, Python, and Machine Learning
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeet0717/)
-- ⚡ Fun fact: I love playing chess and solving puzzles
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeet0717/) [Mail](mailto:abhijeetmahto007@outlook.com)
+- ⚡ Fun fact: I love playing chess ,football and watch movies.
 
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
+  
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,10 +33,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet0717&layout=compact&theme=radical)
 ---->
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet0717/)
 [![Twitter](https://img.shields.io/badge/Mail-1DA1F2?style=for-the-badge&logo=mail&logoColor=white)](mailto:abhijeetmahto007@outlook.com)  
 [![DS Portfolio](https://img.shields.io/badge/Data_Science_Portflio-0077B5?style=for-the-badge&logo=portflio&logoColor=white)](https://www.datascienceportfol.io/abhijeetmahto71)
 
+</details>
 Thanks for visiting my profile! Have a great day! 😊
